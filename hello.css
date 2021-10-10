@@ -1,0 +1,38 @@
+body {
+  background-color: #9D84B7;
+}
+
+.firstDiv, .secondDiv, .thirdDiv {
+  border: 7px outset gold;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+    color:#091353;
+    font-family: sans-serif;
+    text-align: center;
+}
+h2 {
+     color:#D5D5D5;
+    font-family: sans-serif;
+    text-align: center;
+}
+.italikH2 {
+    font-style: italic;
+    color: #B2F9FC;
+}
+li{
+    list-style-position: inside;
+    
+    
+}
+ol{
+    list-style-position: inside;
+    color: #B2F9FC;
+}
+p{
+    font-size: 20px;
+    color: #B2F9FC;
+    text-align: center;
+}
